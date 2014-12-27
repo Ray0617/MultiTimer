@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiTimer", "MultiTimer\MultiTimer.vcxproj", "{F6E0BF4F-4F43-41C1-AD45-1D7BB11716AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6E0BF4F-4F43-41C1-AD45-1D7BB11716AB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F6E0BF4F-4F43-41C1-AD45-1D7BB11716AB}.Debug|Win32.Build.0 = Debug|Win32
+		{F6E0BF4F-4F43-41C1-AD45-1D7BB11716AB}.Debug|Win32.Deploy.0 = Debug|Win32
+		{F6E0BF4F-4F43-41C1-AD45-1D7BB11716AB}.Release|Win32.ActiveCfg = Release|Win32
+		{F6E0BF4F-4F43-41C1-AD45-1D7BB11716AB}.Release|Win32.Build.0 = Release|Win32
+		{F6E0BF4F-4F43-41C1-AD45-1D7BB11716AB}.Release|Win32.Deploy.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
